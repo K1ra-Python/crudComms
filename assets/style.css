@@ -1,0 +1,48 @@
+.wrapComments{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    margin-top: 5%;
+}
+
+.wrapForma{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapForma>form{
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+
+.wrapForma>form>button{
+    padding: 5%;
+}
+
+.btnWrap{
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    padding: 2%;
+    width: 200px;
+}
+
+.com{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+}
+
+.textUserComment{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 400px;
+    height: 100px;
+    padding: 1%;
+}
