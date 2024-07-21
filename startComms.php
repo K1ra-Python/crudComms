@@ -19,9 +19,9 @@
         </div>
         <div class="btnWrap">
             <textarea name="comment">
-                hai
             </textarea>
         </div>
+        <button type="submit">Отправить коментарий</button>
     </form>
 </body>
 </html>
